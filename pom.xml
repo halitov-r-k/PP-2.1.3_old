@@ -40,12 +40,5 @@
             <version>4.13.2</version>
             <scope>test</scope>
         </dependency>
-       <!-- <dependency>
-            <groupId>org.scalatestplus</groupId>
-            <artifactId>junit-4-12_2.13</artifactId>
-            <version>3.2.2.0</version>
-            <scope>test</scope>
-        </dependency>-->
     </dependencies>
-
 </project>
