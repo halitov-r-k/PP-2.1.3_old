@@ -1,0 +1,6 @@
+add Dog.java
+add @Qualifier in AnimalsCage.java
+add @Component in Timer.java
+add field private Timer timer with @Autowired in AnimalsCage.java
+delete new timer() from whatAnimalSay() (AnimalsCage.java)
+add getTimer() in  whatAnimalSay()
